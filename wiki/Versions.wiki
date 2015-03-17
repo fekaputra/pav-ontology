@@ -1,6 +1,6 @@
 = MOVED =
 
-PAV ontology has [moved to Github](https://github.com/pav-ontology/pav).
+PAV ontology has [https://github.com/pav-ontology/pav moved to Github]
 
 See https://github.com/pav-ontology/pav
 
