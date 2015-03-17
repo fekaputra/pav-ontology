@@ -9,6 +9,9 @@
 
 <xsl:template match="/">
   <html>
+    <head>
+      <meta http-equiv="Refresh" content="1; url=http://pav-ontology.github.io/pav/pav.rdf" />
+    </head>
   <body>
   <h1><xsl:value-of select="rdf:RDF/owl:Ontology/dct:title"/></h1>
   <h2>OWL ontology</h2>
